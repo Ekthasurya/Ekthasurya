@@ -1,8 +1,8 @@
 
 <div align="center">
 
-<img src="./assets/https://media.tenor.com/ZDXWm-AnAbsAAAAM/one-piece.gif"
+<img src="https://media.tenor.com/ZDXWm-AnAbsAAAAM/one-piece.gif"
      width="100%"
-     alt="Thousand Sunny One Piece Animated Banner"/>
+     alt="One Piece Animated Banner"/>
 
 </div>
