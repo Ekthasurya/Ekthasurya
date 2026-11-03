@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/one-piece-banner.gif" width="100%" alt="One Piece Pirate Banner"/>
+<img src="https://media.tenor.com/Gab0DkqyqgEAAAAM/sunny-sunny-one-piece.gif" width="100%" alt="One Piece Pirate Banner"/>
 
 <br/>
 
