@@ -84,16 +84,30 @@ I specialize in crafting **pixel-perfect designs** 🎨 and **responsive layouts
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekthasurya&theme=radical&hide_border=true&currStreakLabel=F7B731&ring=F7B731&fire=F7B731" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Ekthasurya&theme=radical&hide_border=true&background=0b1d3a&border=f7b731&ring=f7b731&fire=ff8a3d&currStreakNum=f7b731&currStreakLabel=f7b731&sideNums=ffffff&sideLabels=a9c1e6&dates=a9c1e6" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekthasurya&theme=react-dark&hide_border=true&color=F7B731&line=0e75b6&point=ffffff&area=true&area_color=0e75b6" alt="Activity Graph" width="95%" />
+<img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793751874/divider_odwbac.svg" width="100%" alt="" />
+
+### 📈 Sailing Activity
+
+<img src="https://github-readme-activity-graph-livid-chi.vercel.app/graph?username=Ekthasurya&bg_color=0b1d3a&color=f7b731&line=3ea0ff&point=ffffff&area=true&area_color=3ea0ff&hide_border=true&custom_title=Captain%27s%20Voyage%20Activity&radius=16"
+  width="100%"
+  alt="Captain's Voyage Activity Graph"/>
 
 <br>
 
-<!-- Snake needs a one-time GitHub Action (see chat). Delete this line if you skip it. -->
-<img src="https://raw.githubusercontent.com/Ekthasurya/Ekthasurya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
+<img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793751874/divider_odwbac.svg" width="100%" alt="" />
+
+### 🐍 The Sea King Eats My Commits
+
+<!-- Needs .github/workflows/snake.yml (one-time setup). Delete this block if you skip it. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ekthasurya/Ekthasurya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ekthasurya/Ekthasurya/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ekthasurya/Ekthasurya/output/github-snake-dark.svg" width="95%" />
+</picture>
 
 <br>
 
@@ -101,3 +115,4 @@ I specialize in crafting **pixel-perfect designs** 🎨 and **responsive layouts
 
 
 </div>
+
