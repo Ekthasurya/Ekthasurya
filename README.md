@@ -63,18 +63,24 @@ I specialize in crafting **pixel-perfect designs** 🎨 and **responsive layouts
 
 <img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793751875/h-treasure_pnrcgi.svg" width="70%" alt="Treasure Chest" />
 
-<br><br>
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ekthasurya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
+<img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793755556/trophy-glow_uhgsyh.svg" width="100%" alt="" /><br>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ekthasurya&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" width="100%" alt="GitHub Profile Trophies" />
+<br><img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793755556/shelf_yukfjs.svg" width="100%" alt="" />
 <img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793751874/divider_odwbac.svg" width="100%" alt="" />
 
 <img src="https://res.cloudinary.com/dhd5do52g/image/upload/v1793751874/h-stats_zlcpda.svg" width="70%" alt="Voyage Stats" />
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ekthasurya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=F7B731&icon_color=F7B731" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekthasurya&theme=radical&hide_border=true&layout=compact&title_color=F7B731" alt="Top Languages" />
+<table align="center">
+<tr>
+<td width="50%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=Ekthasurya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,discussions_started&icon_color=3ea0ff&ring_color=f7b731&bg_color=0b1d3a&title_color=f7b731&text_color=ffffff&border_color=f7b731&border_radius=16&hide_border=false&custom_title=%E2%9A%93%20Captain%27s%20Log" alt="GitHub Stats" /></td>
+<td width="50%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ekthasurya&layout=donut&langs_count=6&bg_color=0b1d3a&title_color=f7b731&text_color=ffffff&border_color=f7b731&border_radius=16&hide_border=false&custom_title=%F0%9F%97%BA%EF%B8%8F%20Seas%20I%20Sail" alt="Top Languages" /></td>
+</tr>
+</table>
 
 <br>
 
